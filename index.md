@@ -16,7 +16,7 @@ In this exploratory project we aim to develop a proof-of-concept for private ASD
 * Francisco Teixeira (Ph.D. student)
 * Open position (M.Sc. student)
 
-## Project Timeline
+## Project Timeline (January-December 2021)
 
 <img id="Project Timeline" src="https://fsept11.github.io/PrivaDia/assets/privadia_timeline.png" width="75%" height="75%"/>
 
