@@ -7,7 +7,6 @@ In this exploratory project we aim to develop a proof-of-concept for private ASD
 
 
 ---
----
 
 ## Team Members
 
