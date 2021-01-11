@@ -1,4 +1,5 @@
 title: PrivaDia Project
 description: PrivaDia project website
 show_downloads: false
+is_project_page: false
 theme: jekyll-theme-cayman
