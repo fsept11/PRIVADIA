@@ -16,9 +16,11 @@ In this exploratory project we aim to develop a proof-of-concept for private ASD
 
 ## Project Timeline
 
-<img id="Project Timeline" src="https://fsept11.github.io/PrivaDia/assets/privadia_timeline.png" width="75%" height="75%">
+<img id="Project Timeline" src="https://fsept11.github.io/PrivaDia/assets/privadia_timeline.png" width="75%" height="75%"/>
 
 ### Participating Institutions
-<img id="CMU Portugal" src="https://fsept11.github.io/PrivaDia/assets/logos/cmu_portugal_logo.png" width="75%" height="75%">
-<img id="CMU" src="https://fsept11.github.io/PrivaDia/assets/logos/cmu_logo.png" width="75%" height="75%">
-<img id="INESC-ID" src="https://fsept11.github.io/PrivaDia/assets/logos/inesc-id_logo.png" width="75%" height="75%">
+<div>
+<img id="CMU Portugal" src="https://fsept11.github.io/PrivaDia/assets/logos/cmu_portugal_logo.png" width="25%" height="25%"/>
+<img id="CMU" src="https://fsept11.github.io/PrivaDia/assets/logos/cmu_logo.png" width="25%" height="25%"/>
+<img id="INESC-ID" src="https://fsept11.github.io/PrivaDia/assets/logos/inesc-id_logo.png" width="25%" height="25%"/>
+</div>
