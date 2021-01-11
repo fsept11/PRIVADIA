@@ -16,4 +16,4 @@ In this exploratory project we aim to develop a proof-of-concept for private ASD
 
 ## Project Timeline
 
-<img name="Project Timeline" src="/assets/privadia_timeline.png" width="48">
+<img name="Project Timeline" src="/assets/privadia_timeline.png" width="100">
