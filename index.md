@@ -16,4 +16,4 @@ In this exploratory project we aim to develop a proof-of-concept for private ASD
 
 ## Project Timeline
 
-![Project Timeline](/assets/privadia_timeline.png){:height="36px" width="36px"}
+<img id="Project Timeline" src="/assets/privadia_timeline.png" width="75%" height="75%">
