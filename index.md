@@ -20,8 +20,8 @@ In this exploratory project we aim to develop a proof-of-concept for private ASD
 
 ### Participating Institutions
 <div>
-<img id="INESC-ID" src="https://fsept11.github.io/PrivaDia/assets/logos/inesc-id_logo.png" width="25%" height="25%"/>
-<img id="CMU" src="https://fsept11.github.io/PrivaDia/assets/logos/cmu_logo.png" width="25%" height="25%"/>
+<img id="INESC-ID" src="https://fsept11.github.io/PrivaDia/assets/logos/inesc-id_logo.png" width="15%" height="15%"/>
+<img id="CMU" src="https://fsept11.github.io/PrivaDia/assets/logos/cmu_logo.png" width="15%" height="15%"/>
 </div>
 
 ### Funding Institutions
