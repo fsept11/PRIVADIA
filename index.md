@@ -21,7 +21,7 @@ In this exploratory project we aim to develop a proof-of-concept for private ASD
 <img id="Project Timeline" src="https://fsept11.github.io/PrivaDia/assets/privadia_timeline.png" width="75%" height="75%"/>
 
 ## Contacts
-If you are interested in our project, please contact us at <email>@hlt.inesc-id.pt.
+For further information about our project, please contact Isabel.Trancoso@inesc-id.pt.
 
 ## Participating and Funding Institutions
 <div>
