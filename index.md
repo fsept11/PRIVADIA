@@ -16,4 +16,4 @@ In this exploratory project we aim to develop a proof-of-concept for private ASD
 
 # Project Timeline
 
-[Project Timeline](https://fsept11.github.io/PrivaDia/assets/privadia_timeline.png)
+![Project Timeline](https://fsept11.github.io/PrivaDia/assets/privadia_timeline.png)
