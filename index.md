@@ -18,15 +18,15 @@ In this exploratory project we aim to develop a proof-of-concept for private ASD
 
 ## Project Timeline (January-December 2021)
 
-<img id="Project Timeline" src="https://fsept11.github.io/PrivaDia/assets/privadia_timeline.png" width="75%" height="75%"/>
+<img id="Project Timeline" src="https://fsepteixeira.github.io/PrivaDia/assets/privadia_timeline.png" width="75%" height="75%"/>
 
 ## Contacts
 For further information about our project, please contact us at privadia@hlt.inesc-id.pt.
 
 ## Participating and Funding Institutions
 <div>
-<img id="INESC-ID" src="https://fsept11.github.io/PrivaDia/assets/logos/inesc-id_logo.png" height="125px"/>
-<img id="CMU" src="https://fsept11.github.io/PrivaDia/assets/logos/cmu_logo.png" height="125px"/>
-<img id="CMU Portugal" src="https://fsept11.github.io/PrivaDia/assets/logos/cmu_portugal_logo.png" height="125px"/>
+<img id="INESC-ID" src="https://fsepteixeira.github.io/PrivaDia/assets/logos/inesc-id_logo.png" height="125px"/>
+<img id="CMU" src="https://fsepteixeira.github.io/PrivaDia/assets/logos/cmu_logo.png" height="125px"/>
+<img id="CMU Portugal" src="https://fsepteixeira.github.io/PrivaDia/assets/logos/cmu_portugal_logo.png" height="125px"/>
 </div>
 
