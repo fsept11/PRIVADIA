@@ -14,7 +14,7 @@ In this exploratory project we aim to develop a proof-of-concept for private ASD
 * Bhiksha Raj (P.I., CMU)
 * Alberto Abad (Co-P.I., INESC-ID)
 * Francisco Teixeira (Ph.D. student)
-* Open position (M.Sc. student)
+* Daniel Oliveira (M.Sc. student)
 
 ## Project Timeline (January-December 2021)
 
