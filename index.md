@@ -48,11 +48,15 @@ Keynote presentations at international conferences:
 
 <img id="Project Team" src="https://fsepteixeira.github.io/PrivaDia/assets/team.png" width="75%"/>
 
+---
+
 ## Project Timeline (January-December 2021)
 
 <img id="Project Timeline" src="https://fsepteixeira.github.io/PrivaDia/assets/privadia_timeline.png" width="75%" height="75%"/>
 
 The project has been granted an extension of 6 months, until June 2022.
+
+---
 
 ## Contacts
 For further information about our project, please contact us at privadia@hlt.inesc-id.pt.
