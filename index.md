@@ -14,6 +14,27 @@ Given the current relevance of speaker embeddings for other speech processing ta
 
 In parallel, we also addressed another type of paradigm to avoid the abovementioned computational burden. We showed that it is possible to perturb speech such that a human does not realise it, and such that this perturbation is enough to fool a speaker identification system. In this steganography-inspired method, we generated adversarial examples against speaker identification, by training a Gated Convolutional Autoencoder using a new perceptually motivated multi-objective loss. This work was done in cooperation between the CMU-Portugal team and researchers from the Queen Mary University of London.
 
+## Publications & Presentations
+
+Publications in international conferences:
+1.	Shamsabadi, A, Teixeira, F., Abad, A., Raj, B., Cavallaro, A., & Trancoso, I. (2021), Foolhd: Fooling speaker identification by highly imperceptible adversarial disturbances. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 6159–6163. doi: 10.1109/ICASSP39728.2021.9413760
+(The two first authors contributed equally to this work.)
+https://ieeexplore.ieee.org/document/9413760
+2.	Ablimit, A., Botelho, C., Abad, A., Schultz, T., & Trancoso, I. (2022). Exploring dementia detection from speech: cross corpus analysis, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 6472-6476, doi: 10.1109/ICASSP43922.2022.9747167.
+https://ieeexplore.ieee.org/document/9747167
+(The two first authors contributed equally to this work.)
+3.	Teixeira, F., Abad, A., Raj, B., & Trancoso, I. (2022), Towards End-to-End Private Automatic Speaker Recognition. 23rd Annual Conference of the International Speech Communication Association (Interspeech). 
+https://arxiv.org/abs/2206.11750
+
+Book chapters:
+1.	Teixeira, F., Abad, A., Trancoso, I., & Raj, B. (2021), Voice Biometrics: Privacy in Paralinguistic and Extra-Linguistic Tasks,” in Voice Biometrics: Technology, trust and security, C. Garcia-Mateo and G. Chollet, Eds. IET, ch. 4, ISBN: 978-1-78561-900-7. 
+2.	Trancoso, I. (2021), A Fala como PII (Personally Identifiable Information), in Política do Medo Ou o mundo de hoje entre a privacidade e a segurança. Universidade Católica Editora, ISBN: 9789725408032.
+3.	Trancoso, I. Teixeira, F. , Botelho, C. and Abad A. (2022), Treating Speech as Personable Identifiable Information -- Impact in Machine Translation, in Towards Responsible Machine Translation -- Ethical and Legal Considerations in Machine Translation, Helena Moniz & Carla Parra Escartín (eds.), ISBN: 978-3-031-14688-6.
+
+Keynote presentations at international conferences:
+1.	Trancoso, I. (2021), Speech as Personally Identifiable Information. Keynote talk at 11th Conference on Speech Technology and Human-Computer Dialogue (SPED 2021), Bucharest, Romania.
+2.	Trancoso, I. (2022), Speech as Personally Identifiable Information. Keynote talk at 10th Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA 2022), Aveiro, Portugal. 
+3.	Trancoso, I. (2022), Disease Biomarkers in Speech. Keynote talk at 6th IberSpeech, Granada, Spain (November 2022).
 
 ---
 
