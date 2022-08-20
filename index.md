@@ -50,7 +50,7 @@ Keynote presentations at international conferences:
 
 ---
 
-## Project Timeline (January-December 2021)
+## Project Timeline (originally: January-December 2021)
 
 <img id="Project Timeline" src="https://fsepteixeira.github.io/PrivaDia/assets/privadia_timeline.png" width="75%" height="75%"/>
 
