@@ -46,7 +46,7 @@ Keynote presentations at international conferences:
 * Francisco Teixeira (Ph.D. student)
 * Daniel Oliveira (student, February - August 2021)
 
-<img id="Project Timeline" src="https://fsepteixeira.github.io/PrivaDia/assets/privadia_team.png" width="75%" height="75%"/>
+<img id="Project Timeline" src="https://fsepteixeira.github.io/PrivaDia/assets/team.png" width="75%"/>
 
 ## Project Timeline (January-December 2021)
 
