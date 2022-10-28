@@ -25,6 +25,8 @@ https://ieeexplore.ieee.org/document/9747167
 (The two first authors contributed equally to this work.)
 3.	Teixeira, F., Abad, A., Raj, B., & Trancoso, I. (2022), Towards End-to-End Private Automatic Speaker Recognition. 23rd Annual Conference of the International Speech Communication Association (Interspeech). 
 https://arxiv.org/abs/2206.11750
+4. Teixeira, F., Abad, A., Raj, B., & Trancoso, I. (2022), Privacy-preserving Automatic Speaker Diarization.
+http://arxiv.org/abs/2210.14995
 
 Book chapters:
 1.	Teixeira, F., Abad, A., Trancoso, I., & Raj, B. (2021), Voice Biometrics: Privacy in Paralinguistic and Extra-Linguistic Tasks,” in Voice Biometrics: Technology, trust and security, C. Garcia-Mateo and G. Chollet, Eds. IET, ch. 4, ISBN: 978-1-78561-900-7. 
